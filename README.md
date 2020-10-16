@@ -1,6 +1,6 @@
 # Lab7
 
-Files included are the Makefile and its HelloWorld.cpp dependency file.
+Files included are the Makefile and its hello.cpp dependency file.
 
 ## Commands
 
